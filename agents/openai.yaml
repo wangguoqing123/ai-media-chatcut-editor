@@ -1,0 +1,11 @@
+interface:
+  display_name: "AI自媒体剪辑助手"
+  short_description: "先连通ChatCut再选配色，按口播尺寸精剪，支持参考复刻与内置风格包装"
+  default_prompt: "使用 $ai-media-chatcut-editor，先检查ChatCut连接，按我的口播尺寸清理气口、停顿和重复，再结合参考视频或所选主题色完成剪辑。"
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "chatcut"
+      description: "ChatCut官方Hosted云端编辑连接，首次使用需完成本人的安装与授权"
+      transport: "streamable_http"
+      url: "https://api.chatcut.io/api/external-mcp/mcp"

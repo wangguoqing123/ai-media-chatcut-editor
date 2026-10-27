@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "mode": null,
+  "source": {"mainMedia":null,"displayWidth":null,"displayHeight":null,"fps":null,"dimensionsVerified":false},
+  "output": {"followMainSource":true,"width":null,"height":null,"fps":null,"userOverride":null},
+  "appearance": {"likedPaletteIds":[],"chosenPaletteId":null,"customColors":null,"style":null,"font":null,"captionStyle":null},
+  "reference": {"media":null,"videoObserved":false,"audioObserved":false,"colorPolicy":null,"differences":[]},
+  "speech": {"cleanup":true,"preserveMeaning":true,"speed":1.0,"pitchChange":false,"pausePolicy":"结合原声和用户节奏缩短无意义停顿，保留自然断句与呼吸"},
+  "sound": {"bgmChoice":null,"soundEffectsChoice":null,"listeningVerified":false},
+  "project": {"projectId":null,"timelineId":null,"editorUrl":null},
+  "delivery": {"exportRequested":false,"format":null,"renderMode":null,"outputFile":null},
+  "note":"这是空白字段示例。实际使用时仅填已确认的素材、参数和偏好，不写密码、令牌或其他账号资料。"
+}

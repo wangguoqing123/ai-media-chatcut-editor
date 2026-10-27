@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "palettes": [
+    {"id":"P1","name":"电光蓝紫","background":"#0B1020","surface":"#141E35","text":"#F7FAFC","secondaryText":"#C6D2E5","primary":"#4D8DFF","accent":"#A78BFA","textOnPrimary":"#081122"},
+    {"id":"P2","name":"青绿青柠","background":"#071915","surface":"#102A24","text":"#F5FBF7","secondaryText":"#BAD9CC","primary":"#37D5B0","accent":"#D4F86A","textOnPrimary":"#08221A"},
+    {"id":"P3","name":"奶油珊瑚","background":"#F5F1E8","surface":"#FFFFFF","text":"#1D2725","secondaryText":"#52615A","primary":"#B93824","accent":"#20785B","textOnPrimary":"#FFFFFF"},
+    {"id":"P4","name":"暖白琥珀","background":"#FFFAED","surface":"#FFFFFF","text":"#26211A","secondaryText":"#6D6255","primary":"#9A5700","accent":"#F2C94C","textOnPrimary":"#FFFFFF"},
+    {"id":"P5","name":"淡紫莓色","background":"#F6F1FF","surface":"#FFFFFF","text":"#282033","secondaryText":"#675C75","primary":"#7142B8","accent":"#9F3B75","textOnPrimary":"#FFFFFF"},
+    {"id":"P6","name":"黑白朱红","background":"#FAFAF8","surface":"#FFFFFF","text":"#181818","secondaryText":"#626262","primary":"#B52F27","accent":"#181818","textOnPrimary":"#FFFFFF"}
+  ],
+  "usage":"正文优先使用text，强调形状或细线可使用accent；浅色accent不直接当浅底小字。主色填充上的文字使用textOnPrimary。多选后选定主方案，不把全部色板混在同一画面。"
+}
